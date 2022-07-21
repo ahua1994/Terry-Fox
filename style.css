@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(34, 33, 33);
+    color: antiquewhite;
+}
+
+h1{
+    font-size: 500%;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+p {
+    font-size: 125%;
+    text-align: center;
+}
+
+li {
+    padding-left: 3rem;
+    padding-top: 10rem;
+    font-size: 180%;
+}
